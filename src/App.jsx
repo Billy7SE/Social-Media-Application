@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="main_site_container">
-      <div className="left_aside">
+      <div className="left_aside">Hello!
         <LogoComp />
         <ProfileBox />
         <MenuContainer />
