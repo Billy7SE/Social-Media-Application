@@ -1,0 +1,51 @@
+.logo_comp {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 203.78px;
+   height: 29px;
+   margin: 32px 0 0 24px;
+   gap: 0.7rem;
+   font-weight: 700;
+   font-size:  23.2px;
+   line-height: 0.29px;
+   letter-spacing: -0.29px;
+   color: #0F172A;
+}
+.profile_box {
+   width: 226px;
+   height: 64px;
+   margin: 26px 0 0 12px;
+   left: 12px;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   gap: 12px;
+   padding: 0px 0px 0px 12px;
+   // background-color: #0F172A;
+   .profile_box img {
+      width: 40px;
+      height: 40px;
+      border: 2px;
+      margin: 0 0 0 0;
+   }
+   .profile_names_box {
+      width: 150px;
+      height: 40px;
+   }
+}
+// .sub_title_box {
+   
+// }
+.all_boxes {
+   width: 100%;
+   height: 48px;
+   padding: 0px 24px 0 24px;
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+.search_box {
+   width: 50%;
+   height: 100%;
+}
